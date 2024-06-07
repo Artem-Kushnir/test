@@ -1,1 +1,1 @@
-print('pelmeni')
+print('arbuz')
